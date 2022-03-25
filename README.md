@@ -1,3 +1,2 @@
-# gitdoc
-##Editing this file
-Its a markdown file in the respository.
+Hi... Iam Aravind A S
+MSc DataScience student
